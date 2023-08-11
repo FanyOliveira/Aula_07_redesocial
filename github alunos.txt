@@ -1,0 +1,45 @@
+-------------------Github turma seg/qua
+- biancascanfella
+- geangobo
+- miltomsantos
+- victorh-d-s
+- vict0r-santos
+- stellag2003
+- camilasantana2303
+- williamdresch016
+- luis-felipe005
+- edu1107zera
+- educoppi
+- leoyosuke
+- emilytoledo
+- matheusobruxo
+- joaovictorbento
+--- FALTANTES:
+- Kethely
+-------------------Github turma ter/qui
+- nathpereira
+- edulira14
+- mirelasampaio
+- oiquerida69
+- braaxl
+- iellensilva
+- danyelesantos
+- jonatasmarcelusp
+- jonatasmarceluspedreiro
+- natanaeldp
+- carlosbueno17
+- isaquezak64
+- mathferre
+- fanyoliveira
+-- FALTANTES
+- Kennedy
+- Kenedy
+
+Oi gente, estou em um impasse e gostaria de uma opinião.
+Vou iniciar um novo projeto, e eu gostaria de fazê-lo em React, que foi o que estudei recentemente e que também gosto muito. No entanto, este será um site com várias páginas, e não apenas um app, então eu preciso muito rankear ele e trabalhar com recursos de site mesmo. No entanto, embora o Nextjs seja uma solução, eu tenho outro problema: minha hospedagem. Minha hospedagem atual suporta apenas PhP. Eu consigo rodar arquivos estáticos nele, como o build do React, porém o build estático do Next não é bom.
+Não compensa eu comprar outra hospedagem ou contratar um VPS, pq esse site não vai rentabilizar o suficiente para pagar esses custos, e minha hospedagem atual se paga sozinha com outros sites que tenho.
+
+O que eu poderia fazer?
+A opção mais óbiva seria fazer em PhP. Porém eu estou me especializando cada vez mais em JavaScript e não queria ter que voltar para o PhP (faz alguns anos que não programo em PhP). Também não sei Laravel, seria uma boa oportunidade para aprender.
+
+O que você poderia sugerir?
